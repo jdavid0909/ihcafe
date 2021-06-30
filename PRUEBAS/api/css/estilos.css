@@ -1,0 +1,33 @@
+
+body{
+    background:#9abe96;
+}
+#contador{
+    margin-left:310px ;
+    border-color: white;
+    border:0;
+}
+#btnBuscar{
+    margin-top: -6px;
+}
+#imagenes{
+    width: 15%;
+    border-radius: 5px;
+    padding-right: 30px;
+}
+#tituloEncabezado{
+    
+    text-align: center;
+}
+#graficasGenerales{
+    margin-left:100px ;
+    
+    
+}
+#graficopie{
+    
+    margin-left: 15px;
+}
+
+
+

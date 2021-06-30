@@ -1,0 +1,51 @@
+
+body{
+    background:#9abe96;
+}
+ #contador1{
+    
+    border-color: rgb(255, 255, 255);
+    border:0;
+    width: 210px;
+    margin-left: 250px;
+    margin-top: 2px; 
+    text-align: end; 
+    
+}
+/* #cls-contador{
+    text-align: center;
+} */
+#container{
+    width: 600px;
+    height:600px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+#btnBuscar{
+    margin-top: -6px;
+}
+#imagenes{
+    width: 15%;
+    border-radius: 5px;
+    padding-right: 30px;
+}
+#tituloEncabezado{
+    
+    text-align: center;
+}
+
+ /* #graficopolarArea_parametro{
+    display: block;
+    margin: 0 auto;
+} */
+/* #test {
+    width: 100px;
+    height:100px;
+    margin: 0px auto;
+    border: 1px solid red;
+    } */
+
+
+
